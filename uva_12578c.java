@@ -1,6 +1,6 @@
 /*
     UVa Online Judge
-    12578-10:6:2
+    12578 - 10:6:2
     Javier Diego-Fernández
 */
 import java.util.*; // Necesitamos el Scanner
